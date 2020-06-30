@@ -1,0 +1,29 @@
+
+> fibers@5.0.0 install /Users/tim/PycharmProjects/USB-Quartermaster-dev/plugins/UI/ui/node_modules/fibers
+> node build.js || nodejs build.js
+
+  CXX(target) Release/obj.target/fibers/src/fibers.o
+  CXX(target) Release/obj.target/fibers/src/coroutine.o
+  CC(target) Release/obj.target/fibers/src/libcoro/coro.o
+  SOLINK_MODULE(target) Release/fibers.node
+Installed in `/Users/tim/PycharmProjects/USB-Quartermaster-dev/plugins/UI/ui/node_modules/fibers/bin/darwin-x64-59/fibers.node`
+
+> node-sass@4.14.1 install /Users/tim/PycharmProjects/USB-Quartermaster-dev/plugins/UI/ui/node_modules/node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.14.1/darwin-x64-59_binding.node
+Download complete
+Binary saved to /Users/tim/PycharmProjects/USB-Quartermaster-dev/plugins/UI/ui/node_modules/node-sass/vendor/darwin-x64-59/binding.node
+Caching binary to /Users/tim/.npm/node-sass/4.14.1/darwin-x64-59_binding.node
+
+> node-sass@4.14.1 postinstall /Users/tim/PycharmProjects/USB-Quartermaster-dev/plugins/UI/ui/node_modules/node-sass
+> node scripts/build.js
+
+Binary found at /Users/tim/PycharmProjects/USB-Quartermaster-dev/plugins/UI/ui/node_modules/node-sass/vendor/darwin-x64-59/binding.node
+Testing binary
+Binary is fine
++ fibers@5.0.0
++ node-sass@4.14.1
++ node-sass@4.14.1
++ sass@1.26.9
+added 76 packages in 54.952s
